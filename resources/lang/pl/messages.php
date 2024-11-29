@@ -406,17 +406,17 @@ return [
     |
     */
 
-    'Select a theme' => 'Select a theme',
-    'Select theme' => 'Select theme',
-    'Custom background' => 'Custom background',
-    'No image selected' => 'No image selected',
-    'Remove background' => 'Remove background',
-    'Manage themes' => 'Manage themes',
-    'Loading...' => 'Loading...',
-    'Upload themes' => 'Upload themes',
-    'Delete themes' => 'Delete themes',
-    'Download themes' => 'Download themes',
-    'Delete a theme' => 'Delete a theme',
+    'Select a theme' => 'Wybierz motyw',
+    'Select theme' => 'Wybór motywu',
+    'Custom background' => 'Niestandardowe tło',
+    'No image selected' => 'Nie wybrano obrazu',
+    'Remove background' => 'Usuń tło',
+    'Manage themes' => 'Zarządzaj motywami',
+    'Loading...' => 'Ładowanie...',
+    'Upload themes' => 'Wgraj motywy',
+    'Delete themes' => 'Usuń motywy',
+    'Download themes' => 'Pobierz motywy',
+    'Delete a theme' => 'Usuń motywy',
 
 
     /*
@@ -428,13 +428,13 @@ return [
     |
     */
 
-    'Theme Updater' => 'Theme Updater',
-    'Theme name' => 'Theme name:',
-    'Update status' => 'Update status:',
-    'Version' => 'Version:',
-    'Error!' => 'Error!',
-    'Update manually' => 'Update manually',
-    'Update all themes' => 'Update all themes',
+    'Theme Updater' => 'Aktualizator motywów',
+    'Theme name' => 'Nazwa motywu:',
+    'Update status' => 'Status aktualizacji:',
+    'Version' => 'Wersja:',
+    'Error!' => 'Błąd!',
+    'Update manually' => 'Aktualizuj ręcznie',
+    'Update all themes' => 'Aktualizuj wszystkie motywy',
 
 
     /*
@@ -446,10 +446,10 @@ return [
     |
     */
 
-    'Edit User' => 'Edit User',
+    'Edit User' => 'Edycja konta',
     'Logo' => 'Logo',
-    'Page description' => 'Page description',
-    'Role' => 'Role',
+    'Page description' => 'Opis strony',
+    'Role' => 'Rola',
 
 
     /*
@@ -461,7 +461,7 @@ return [
     |
     */
 
-    'Title' => 'Title',
+    'Title' => 'Tytuł',
 
 
     /*
@@ -485,7 +485,7 @@ return [
     |
     */
 
-    'Information about PHP’s configuration' => 'Information about PHP’s configuration',
+    'Information about PHP’s configuration' => 'Informacje o konfiguracji PHP',
     'Outputs information about the current state of PHP' => 'Outputs information about the current state of PHP',
 
 
@@ -498,7 +498,7 @@ return [
     |
     */
 
-    'Delete theme' => 'Delete theme',
+    'Delete theme' => 'Usuń motyw',
 
 
     /*
@@ -510,38 +510,38 @@ return [
     |
     */
 
-    'Users:' => 'Users:',
-    'Search user' => 'Search user',
+    'Users:' => 'Konta:',
+    'Search user' => 'Szukaj konta',
     'ID' => 'ID',
-    'Name' => 'Name',
+    'Name' => 'Nazwa',
     'E-Mail' => 'E-Mail',
-    'Page' => 'Page',
-    'Created at' => 'Created at',
-    'Last seen' => 'Last seen',
+    'Page' => 'Strona',
+    'Created at' => 'Utworzono',
+    'Last seen' => 'Aktywność',
     'Status' => 'Status',
-    'Action' => 'Action',
+    'Action' => 'Akcja',
     'N/A' => 'N/A',
-    'Pending' => 'Pending',
-    'Verified' => 'Verified',
-    'Approved' => 'Approved',
-    'Add new user' => 'Add new user',
+    'Pending' => 'Oczekuje',
+    'Verified' => 'Zweryfikowano',
+    'Approved' => 'Zatwierdzono',
+    'Add new user' => 'Dodaj nowe konto',
 
     # Tooltips
-    'tt.Delete' => 'Delete',
-    'tt.Impersonate' => 'Impersonate',
-    'tt.Edit' => 'Edit',
-    'tt.All links' => 'All links',
+    'tt.Delete' => 'Usuń',
+    'tt.Impersonate' => 'Podszyj się',
+    'tt.Edit' => 'Edycja',
+    'tt.All links' => 'Wszystkie linki',
 
-    'confirm.delete.user' => 'Are you sure you want to delete this user? \nThis action cannot be undone!',
+    'confirm.delete.user' => 'Masz pewność że chcesz usunąć to konto? \nTo działanie nie może być cofnięte!',
 
     # Date Format
-    'date.format' => 'd/m/Y',
+    'date.format' => 'Y-m-d',
 
-    'days ago' => 'days ago',
-    '1 day ago' => '1 day ago',
-    'Today' => 'Today',
-    '1 year ago' => '1 year ago',
-    'years ago' => 'years ago',
+    'days ago' => 'dni temu',
+    '1 day ago' => 'wczoraj',
+    'Today' => 'Dzisiaj',
+    '1 year ago' => 'rok temu',
+    'years ago' => 'lat(a) temu',
 
 
     /*
