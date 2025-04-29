@@ -20,8 +20,8 @@ return [
     'by' => 'od',
 
     'HOME.MESSAGE' => '
-    <p>Kontroluj swoją obecność online z&nbsp;<a href="https://linkstack.org/"><strong>LinkStack</strong></a>
-     zorientowaną na prowatność, otwartoźródłową <strong>platformę do zarządzania linkami</strong>. Utwórz konfigurowalną stronę profilu, aby zarządzać wszystkimi ważnymi linkami w jednym wygodnym miejscu i zapewnić odbiorcom sprawne przeglądanie.</p>
+    <p>Pokaż swoją obecność online z&nbsp;<a href="https://Bio.Fediwers.pl/"><strong>Biogramami w Fediwersie</strong></a> -
+     zorientowanej na prowatność, otwartoźródłowej <strong>platformie do zarządzania Twoimi linkami</strong>. Stwórz konfigurowalną stronę profilu, aby zarządzać wszystkimi ważnymi linkami w jednym wygodnym miejscu i zapewnić odbiorcom komfortowe przeglądanie na telefonie, tablecie i na komputerze.</p>
      ',
 
 
@@ -34,7 +34,7 @@ return [
     |
     */
 
-    'Example page' => 'Przykładowa strona',
+    'Example page' => 'Twoje linki w Fediwersie',
 
 
     /*
@@ -905,54 +905,54 @@ return [
     |
     */
 
-    'Default Email' => 'Default Email',
-    'Custom Title' => 'Custom Title',
-    'Leave blank for default title' => 'Leave blank for default title',
-    'E-Mail address' => 'E-Mail address',
-    'Enter your E-Mail' => 'Enter your E-Mail',
+    'Default Email' => 'Domyślny email',
+    'Custom Title' => 'Własny tytuł',
+    'Leave blank for default title' => 'Zostaw puste dla domyślnego tytułu',
+    'E-Mail address' => 'Adres e-mail',
+    'Enter your E-Mail' => 'Wpisz swój e-mail',
 
-    'Heading Text:' => 'Heading Text:',
+    'Heading Text:' => 'Tekst nagłówka:',
 
     'URL' => 'URL',
-    'Show website icon on button' => 'Show website icon on button',
+    'Show website icon on button' => 'Pokaż ikonę witryny na przycisku',
 
-    'Select a predefined site' => 'Select a predefined site',
-    'Enter the link URL' => 'Enter the link URL',
+    'Select a predefined site' => 'Wybierz predefiniowaną witrynę',
+    'Enter the link URL' => 'Wpisz adres URL linka',
 
-    'Spacing height' => 'Spacing height',
+    'Spacing height' => 'Wysokość odstępu',
 
-    'Phone' => 'Phone',
-    'Telephone number' => 'Telephone number',
-    'Enter your telephone number' => 'Enter your telephone number',
+    'Phone' => 'Telefon',
+    'Telephone number' => 'Numer telefonu',
+    'Enter your telephone number' => 'Wpisz swój numer telefonczny',
 
-    'Text to display' => 'Text to display',
+    'Text to display' => 'Tekst do wyświetlenia',
 
     'Vcard' => 'Vcard',
-    'First Name' => 'First Name',
-    'Middle Name' => 'Middle Name',
-    'Last Name' => 'Last Name',
-    'Suffix' => 'Suffix',
-    'Work' => 'Work',
-    'Organization' => 'Organization',
-    'Work URL' => 'Work URL',
-    'Emails' => 'Emails',
-    'Enter your personal email' => 'Enter your personal email',
-    'Work Email' => 'Work Email',
-    'Enter your work email' => 'Enter your work email',
-    'Phones' => 'Phones',
-    'Home Phone' => 'Home Phone',
-    'Work Phone' => 'Work Phone',
-    'Cell Phone' => 'Cell Phone',
-    'Home Address' => 'Home Address',
-    'Label' => 'Label',
-    'Street' => 'Street',
-    'City' => 'City',
-    'State/Province' => 'State/Province',
-    'Zip/Postal Code' => 'Zip/Postal Code',
-    'Country' => 'Country',
-    'Work Address' => 'Work Address',
+    'First Name' => 'Pierwsze imię',
+    'Middle Name' => 'Drugie imię',
+    'Last Name' => 'Nazwisko',
+    'Suffix' => 'Przyrostek',
+    'Work' => 'Praca',
+    'Organization' => 'Organizacja',
+    'Work URL' => 'URL służbowy',
+    'Emails' => 'Emaile',
+    'Enter your personal email' => 'Wpisz email prywatny',
+    'Work Email' => 'Email służbowy',
+    'Enter your work email' => 'Wpisz służbowy email',
+    'Phones' => 'Telefony',
+    'Home Phone' => 'Domowy',
+    'Work Phone' => 'Służbowy',
+    'Cell Phone' => 'Komórkowy',
+    'Home Address' => 'Adres domowy',
+    'Label' => 'Etykieta',
+    'Street' => 'Ulica',
+    'City' => 'Miejscowość',
+    'State/Province' => 'Województwo',
+    'Zip/Postal Code' => 'Kod pocztowy',
+    'Country' => 'Kraj',
+    'Work Address' => 'Adres służbowy',
 
-    'URL to the video' => 'URL to the video',
+    'URL to the video' => 'URL do wideo',
 
 
     /*
@@ -964,12 +964,12 @@ return [
     |
     */
 
-    'Maintenance Mode' => 'Maintenance Mode',
-    'We are performing scheduled site maintenance at this time' => 'We are performing scheduled site maintenance at this time.',
-    'Please check back with us later' => 'Please check back with us later.',
-    'Admin options:' => 'Admin options:',
-    'Turn off' => 'Turn off',
-    'Warn.Disable.Maintenance' => 'You are about to disable Maintenance Mode. Are you sure?',
+    'Maintenance Mode' => 'Konserwacja systemu',
+    'We are performing scheduled site maintenance at this time' => 'Obecnie przeprowadzamy zaplanowaną konserwację witryny.',
+    'Please check back with us later' => 'Odwiedź nas później.',
+    'Admin options:' => 'Opcje admina:',
+    'Turn off' => 'Wyłącz',
+    'Warn.Disable.Maintenance' => 'Zamierzasz wyłączyć tryb konserwacji. Czy na pewno?',
 
 
     /*
@@ -981,17 +981,17 @@ return [
     |
     */
 
-    'Share this page' => 'Share this page',
-    'Share' => 'Share',
-    'Copy URL to clipboard' => 'Copy URL to clipboard',
-    'URL has been copied to your clipboard!' => 'URL has been copied to your clipboard!',
+    'Share this page' => 'Udostępnij stronę',
+    'Share' => 'Udostępnij',
+    'Copy URL to clipboard' => 'Kopiuj URL do schowka',
+    'URL has been copied to your clipboard!' => 'URL został skopiowany do schowka!',
 
-    'Delete User' => 'Delete User',
-    'Block User' => 'Block User',
-    'Users Theme' => 'Theme',
-    'Search User' => 'Search for User',
+    'Delete User' => 'Usuń konto',
+    'Block User' => 'Blokuj konto',
+    'Users Theme' => 'Motyw',
+    'Search User' => 'Szukaj konta',
 
-    'Edit my profile' => 'Edit my profile',
+    'Edit my profile' => 'Edycja profilu',
 
 
     /*
@@ -1004,8 +1004,8 @@ return [
     |
     */
 
-    'Learn more about LinkStack' => 'Learn more about LinkStack',
-    'Learn more' => 'Learn more',
+    'Learn more about LinkStack' => 'Więcej o LinkStack',
+    'Learn more' => 'Więcej',
 
     /*
     |--------------------------------------------------------------------------
@@ -1017,7 +1017,7 @@ return [
     |
     */
 
-    'No notifications' => 'No notifications',
+    'No notifications' => 'Brak powiadomień',
 
     # Security Risk Notification
     'Your security is at risk!' => 'Your security is at risk!',
